@@ -1,0 +1,4 @@
+android/key.properties
+*.jks
+*.keystore
+build/symbols/
